@@ -1,0 +1,6 @@
+server:
+  port: 8088 # Service will run on http://localhost:8088
+
+spring:
+  application:
+    name: SamarBoxOffice   # app name shown in logs/actuator
